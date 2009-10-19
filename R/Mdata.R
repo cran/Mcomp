@@ -91,8 +91,15 @@ Mcomp.sub <- function(x,getdata)
         choose <- (Period=="QUARTERLY")
     else if(getdata==12 | getdata=="monthly")
         choose <- (Period=="MONTHLY")
+    else if(getdata==111)
+    {        
+        j <- match(x111,names(x))
+        choose <- rep(FALSE,length(x))
+        choose[j] <- TRUE
+    }
     else if(getdata=="other")
-        choose <- (Period=="OTHER")
+        choose <- 
+        (Period=="OTHER")
     else if(getdata=="macro")
         choose <- (Type=="MACRO")
     else if(getdata=="micro")

@@ -12,10 +12,10 @@ Data from the M-competitions
 \author{Rob J Hyndman. \email{Rob.Hyndman@buseco.monash.edu.au}}
 
 \source{
-  \url{http://www.forecasters.org/data/tsdata.htm}.
+  \url{http://forecasters.org/time-series.html}.
 
   Detailed results from M3 competition at
-  \url{http://www-marketing.wharton.upenn.edu/forecast/m3-competition.html}.
+  \url{http://forecastingprinciples.com/index.php?option=com_content&task=view&id=209}.
 }
 
 \references{

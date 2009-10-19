@@ -1,3 +1,7 @@
+Version 2.01 (19 October 2009)
+    * Corrected URL errors in help files
+	* Added option to subset.Mdata() to obtain the 111 series used in the M-competition
+
 Version 2.00 (7 September 2009)
     * Package removed from forecasting bundle
 

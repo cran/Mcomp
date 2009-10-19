@@ -23,6 +23,9 @@ specific types of data or both.
 denoting period are 1, 4, 12, "yearly", "quarterly", "monthly"
 and "other".
 
+If \code{cond1} or \code{cond2} equals 111, then the 111 series used in the 
+extended comparisons in the 1982 M-competition are selected.
+
 Possible values for \code{cond1} and \code{cond2} denoting type
 are "macro", "micro", "industry", "finance", "demographic",
 "allother", "macro1", "macro2", "micro1", "micro2", "micro3".
