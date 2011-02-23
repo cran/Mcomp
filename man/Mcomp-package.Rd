@@ -1,6 +1,6 @@
-\name{fma-package}
-\alias{fma-package}
-\alias{fma}
+\name{Mcomp-package}
+\alias{Mcomp-package}
+\alias{Mcomp}
 \docType{package}
 \title{
 Data from the M-competitions
