@@ -1,4 +1,4 @@
-plot.Mdata <- function(x, xlim=c(start(x$x)[1],end(x$xx)[1]), ylim=range(x$x,x$xx),
+plot.Mdata <- function(x, xlim=c(tsp(x$x)[1],tsp(x$xx)[2]), ylim=range(x$x,x$xx),
                         main=x$sn, xlab="", ylab="", ...)
 {
     freq = frequency(x$x)
