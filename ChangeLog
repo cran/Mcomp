@@ -1,3 +1,6 @@
+Version 2.04 (19 March 2012)
+  * Changes to satisfy new requirements for R-2.15.0.
+
 Version 2.03 (11 August 2011)
 	* Fixed error in plot.Mdata()
 

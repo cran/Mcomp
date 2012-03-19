@@ -5,7 +5,7 @@
   plot.Mdata plots a time series from the M competition data sets.
 }
 \usage{
-plot.Mdata(x, xlim=c(tsp(x$x)[1],tsp(x$xx)[2]), ylim=range(x$x,x$xx),
+\method{plot}{Mdata}(x, xlim=c(tsp(x$x)[1],tsp(x$xx)[2]), ylim=range(x$x,x$xx),
                    main=x$sn, xlab="", ylab="", ...)
 
 }
