@@ -5,17 +5,16 @@
 \title{
 Data from the M-competitions
 }
-\description{The 1001 time series from the M-competition (Makridakis et al. 1982) 
-  and the 3003 time series from the IJF-M3 competition (Makridakis and Hibon, 2000).
+\description{The 1001 time series from the M-competition (Makridakis et al. 1982), and the 3003 time series and forecasts from the IJF-M3 competition (Makridakis and Hibon, 2000).
 }
 
-\author{Rob J Hyndman. \email{Rob.Hyndman@buseco.monash.edu.au}}
+\author{Rob J Hyndman. \email{Rob.Hyndman@monash.edu}, with assistance from Muhammad Akram and Christoph Bergmeir.}
 
 \source{
-  \url{http://forecasters.org/time-series.html}.
+  \url{http://forecasters.org/resources/time-series-data/m3-competition/}.
 
   Detailed results from M3 competition at
-  \url{http://forecastingprinciples.com/index.php?option=com_content&task=view&id=209}.
+  \url{http://www.insead.edu/facultyresearch/research/doc.cfm?did=1094}.
 }
 
 \references{

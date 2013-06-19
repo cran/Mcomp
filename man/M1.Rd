@@ -30,10 +30,10 @@ values for M3 are "DEMOGRAPHIC", "FINANCE", "INDUSTRY", "MACRO",
 }
 
 \source{
-  \url{http://forecasters.org/time-series.html}.
+  \url{http://forecasters.org/resources/time-series-data/m3-competition/}.
 
   Detailed results from M3 competition at
-  \url{http://forecastingprinciples.com/index.php?option=com_content&task=view&id=209}.
+  \url{http://www.insead.edu/facultyresearch/research/doc.cfm?did=1094}.
 }
 
 \author{Muhammad Akram and Rob Hyndman}
