@@ -1,7 +1,13 @@
-export(plot.Mdata, subset.Mcomp)
+importFrom("graphics", "lines", "plot", "title")
+importFrom("stats", "frequency", "ts", "tsp", "start")
+importFrom("ggplot2","autoplot", "ggtitle", "xlab", "ylab", "scale_color_manual")
+import("forecast")
 
-S3method(plot,Mdata)
-S3method(print,Mcomp)
-S3method(print,Mdata)
-S3method(subset,Mcomp)
+export(autoplot.Mdata, plot.Mdata, subset.Mcomp)
+
+S3method(autoplot, Mdata)
+S3method(plot, Mdata)
+S3method(print, Mcomp)
+S3method(print, Mdata)
+S3method(subset, Mcomp)
 
