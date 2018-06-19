@@ -1,14 +1,14 @@
-8c62b844915baba84108279986a818a3 *DESCRIPTION
+eda5ac839fcc37254d42ebf142c5b3ff *DESCRIPTION
 8e972fddc58fcf703cdd706b20c576ab *NAMESPACE
-e88f6570f4148fca0a4d67f8cadb69b9 *NEWS.md
+c36061f4377d49a529b7e2d2cd24c550 *NEWS.md
 b2375af6210dbd89848851eb01b9ee6e *R/M1.R
 8e6b9d629c8dd40534c01c8e5e94a0b0 *R/M3.R
 ad5b13f346b8e61bf8f4853b55271de7 *R/M3Forecast.R
 37138083cffae8a48099d916033b1a62 *R/Mcomp-package.R
 0132b2543eaee3a14dac91d41cb0c16b *R/Mdata.R
-5563dd3a12296c27de353e2a164dfa3a *R/plots.R
+0c370c0cc9875eebc097254b5d3c156f *R/plots.R
 f347b5c208c535aa0afe80e5e5a632a9 *R/x111.R
-56856b4e0dd8b43ce6beb8fabd39f97b *README.md
+77a2323ee3dbf529e0abdfb0b3a1ed65 *README.md
 78a8fd28b46f657836f577b636ba70e4 *data/M1.rda
 f420fb522d3467b7fd2f96477350202b *data/M3.rda
 60018c41748fcb05a278675268e39c7c *data/M3Forecast.rda
@@ -17,6 +17,6 @@ a31fb9b5b29fbb93fb35f622589b03cd *data/datalist
 633d203360d399992ac0cefcd4f2cf65 *man/M3.Rd
 fabe11286bc9de1a2a138ef85efc50d4 *man/M3Forecast.Rd
 2773cb9e0abb5a9114f1732a77306142 *man/Mcomp-package.Rd
-6906f1c4b4657f5945ec389033323fdc *man/figures/README-usage-1.png
-37572dc61bbe10a27f3564e77ebd5baf *man/plot.Mdata.Rd
+7f84ad359e8457de565f696305a6283f *man/figures/README-usage-1.png
+2869ab6b5536489768de8bd72ea5be77 *man/plot.Mdata.Rd
 62e2124d8a118e2605c3c2f96df149fd *man/subset.Mcomp.Rd
